@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! It,s nikky !!</h2>
+<h2 align="left">Hey👋! It,s nikky !!</h2>
 
 ###
 
